@@ -26,7 +26,7 @@ const samura = {
 
 <div align="center">
 
-<br/><br/>
+<br/>
 
 <table width="100%" style="border: none;">
   <tr>
@@ -62,7 +62,7 @@ const samura = {
   </tr>
 </table>
 
-<br/><br/><br/>
+<br/>
 
 <h2><code style="color: #E03C31;">[ Связь ]</code></h2>
 
@@ -88,8 +88,6 @@ const samura = {
   </tr>
 </table>
 
-<br/><br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:E03C31&height=120&section=footer" width="100%" />
+<br/
 
 </div>
