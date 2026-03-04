@@ -88,6 +88,4 @@ const samura = {
   </tr>
 </table>
 
-<br/
-
 </div>
