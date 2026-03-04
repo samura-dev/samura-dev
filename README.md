@@ -74,17 +74,17 @@ const samura = {
   <tr>
     <td width="33%" align="center">
       <a href="https://t.me/samuradev">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=70&text=TELEGRAM&fontColor=E03C31&fontSize=22&desc=Перейти&descColor=EFEFEF&descAlign=50&descAlignY=65&stroke=E03C31&strokeWidth=1" width="100%"/>
+        <img src="https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=telegram&logoColor=E03C31" />
       </a>
     </td>
     <td width="33%" align="center">
       <a href="#portfolio">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=70&text=PORTFOLIO&fontColor=E03C31&fontSize=22&desc=Перейти&descColor=EFEFEF&descAlign=50&descAlignY=65&stroke=E03C31&strokeWidth=1" width="100%"/>
+        <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=E03C31" />
       </a>
     </td>
     <td width="33%" align="center">
       <a href="mailto:samura.dev@mail.ru">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=70&text=EMAIL&fontColor=E03C31&fontSize=22&desc=Написать&descColor=EFEFEF&descAlign=50&descAlignY=65&stroke=E03C31&strokeWidth=1" width="100%"/>
+        <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=minutemailer&logoColor=E03C31" />
       </a>
     </td>
   </tr>
