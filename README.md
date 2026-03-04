@@ -73,19 +73,16 @@ const samura = {
 <table width="100%" style="border: none;">
   <tr>
     <td width="33%" align="center">
-      <a href="https://t.me/samuradev">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=70&text=TELEGRAM&fontColor=E03C31&fontSize=22&desc=@samuradev&descColor=EFEFEF&descAlign=65&descAlignY=52&stroke=E03C31&strokeWidth=1" width="100%"/>
-      </a>
+      <h2><a href="https://t.me/samuradev" style="color: #E03C31; text-decoration: none;">[ TELEGRAM ]</a></h2>
+      <i style="color: #EFEFEF;">@samuradev</i>
     </td>
     <td width="33%" align="center">
-      <a href="#">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=70&text=PORTFOLIO&fontColor=E03C31&fontSize=22&desc=Скоро%20запуск&descColor=EFEFEF&descAlign=65&descAlignY=52&stroke=E03C31&strokeWidth=1" width="100%"/>
-      </a>
+      <h2><a href="#" style="color: #E03C31; text-decoration: none;">[ PORTFOLIO ]</a></h2>
+      <i style="color: #EFEFEF;">Скоро запуск</i>
     </td>
     <td width="33%" align="center">
-      <a href="mailto:samura.dev@mail.ru">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=70&text=EMAIL&fontColor=E03C31&fontSize=22&desc=samura.dev@mail.ru&descColor=EFEFEF&descAlign=65&descAlignY=52&stroke=E03C31&strokeWidth=1" width="100%"/>
-      </a>
+      <h2><a href="mailto:samura.dev@mail.ru" style="color: #E03C31; text-decoration: none;">[ EMAIL ]</a></h2>
+      <i style="color: #EFEFEF;">samura.dev@mail.ru</i>
     </td>
   </tr>
 </table>
