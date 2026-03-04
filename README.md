@@ -73,16 +73,19 @@ const samura = {
 <table width="100%" style="border: none;">
   <tr>
     <td width="33%" align="center">
-      <h2><a href="https://t.me/samuradev" style="color: #E03C31; text-decoration: none;">[ TELEGRAM ]</a></h2>
-      <i style="color: #EFEFEF;">@samuradev</i>
+      <h3><code style="color: #E03C31;">[ TELEGRAM ]</code></h3>
+      <br/>
+      <a href="https://t.me/samuradev"><b>Перейти</b></a>
     </td>
     <td width="33%" align="center">
-      <h2><a href="#" style="color: #E03C31; text-decoration: none;">[ PORTFOLIO ]</a></h2>
-      <i style="color: #EFEFEF;">Скоро запуск</i>
+      <h3><code style="color: #E03C31;">[ PORTFOLIO ]</code></h3>
+      <br/>
+      <a href="#"><b>Перейти</b></a>
     </td>
     <td width="33%" align="center">
-      <h2><a href="mailto:samura.dev@mail.ru" style="color: #E03C31; text-decoration: none;">[ EMAIL ]</a></h2>
-      <i style="color: #EFEFEF;">samura.dev@mail.ru</i>
+      <h3><code style="color: #E03C31;">[ EMAIL ]</code></h3>
+      <br/>
+      <a href="mailto:samura.dev@mail.ru"><b>Написать</b></a>
     </td>
   </tr>
 </table>
