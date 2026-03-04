@@ -1,6 +1,10 @@
-# `samura.dev`
+<div align="center">
 
-> **Frontend Engineer** × Heavy Luxury & Cyber-Minimalism
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:111111,100:E03C31&height=250&section=header&animation=twinkling" width="100%" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=40&duration=4000&pause=1000&color=E03C31&center=true&vCenter=true&repeat=true&width=800&height=100&lines=%E2%9C%A8+samura.dev;FRONTEND+ENGINEER;HEAVY+LUXURY+%C3%97+MINIMAL)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
@@ -8,66 +12,67 @@
 const samura = {
   name: "Даниил",
   role: "Frontend Engineer",
+  brand: "samura.dev",
   location: "Russia",
-  focus: "Разработка премиальных веб-интерфейсов",
-  contact: {
-    telegram: "@samuradev",
-    email: "samura.dev@mail.ru"
-  }
+  style: "Heavy Luxury × Cyber-Minimalism",
+  focus: "Премиальные веб-интерфейсы",
 };
 ```
 
-<br/>
+<div align="center">
 
-<table>
+<br/><br/>
+
+<table width="100%" style="border: none;">
   <tr>
-    <td width="60%" valign="top">
-      <h2><code>Стек</code></h2>
+    <td width="55%" align="center" valign="top">
+      <h2><code style="color: #E03C31;">[ Tech Stack ]</code></h2>
       <br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
-      <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=F59E0B" />
-      <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-      <img src="https://img.shields.io/badge/shadcn/ui-18181B?style=for-the-badge&logo=shadcnui&logoColor=fff" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=fff" />
-      <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=000" />
-      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=fff" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff" />
+      <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=E03C31" />
+      <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=E03C31" />
+      <img src="https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=next.js&logoColor=E03C31" />
+      <img src="https://img.shields.io/badge/Tailwind-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=E03C31" />
+      <img src="https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=E03C31" />
+      <img src="https://img.shields.io/badge/Zustand-0A0A0A?style=for-the-badge&logo=react&logoColor=E03C31" />
+      <img src="https://img.shields.io/badge/Firebase-0A0A0A?style=for-the-badge&logo=firebase&logoColor=E03C31" />
+      <img src="https://img.shields.io/badge/shadcn/ui-0A0A0A?style=for-the-badge&logo=shadcnui&logoColor=E03C31" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0A0A0A?style=for-the-badge&logo=framer&logoColor=E03C31" />
+      <img src="https://img.shields.io/badge/GSAP-0A0A0A?style=for-the-badge&logo=greensock&logoColor=E03C31" />
+      <img src="https://img.shields.io/badge/Three.js-0A0A0A?style=for-the-badge&logo=threedotjs&logoColor=E03C31" />
+      <img src="https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=E03C31" />
     </td>
-    <td width="40%" valign="top">
-      <h2><code>AI в работе</code></h2>
+    <td width="45%" align="center" valign="top">
+      <h2><code style="color: #E03C31;">[ AI Pipeline ]</code></h2>
       <br/>
-      <p>Использую AI для ускорения разработки. Код пишу сам.</p>
-      <img src="https://img.shields.io/badge/Antigravity-E03C31?style=for-the-badge&logo=google&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Antigravity-0A0A0A?style=for-the-badge&logo=google&logoColor=E03C31" />
+      <img src="https://img.shields.io/badge/Gemini-0A0A0A?style=for-the-badge&logo=googlegemini&logoColor=E03C31" />
+      <img src="https://img.shields.io/badge/Claude-0A0A0A?style=for-the-badge&logo=anthropic&logoColor=E03C31" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=fff" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=fff" />
+      <i style="color: #888888; font-family: monospace;">Использую AI для ускорения.<br/>Код пишу сам.</i>
     </td>
   </tr>
 </table>
 
-<br/>
+<br/><br/><br/>
 
-## `Связь`
+<h2><code style="color: #E03C31;">[ Связь ]</code></h2>
 
 <br/>
 
 <a href="https://t.me/samuradev">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=70&text=[%20TELEGRAM%20]&fontColor=E03C31&fontSize=22&desc=@samuradev&descColor=EFEFEF&descAlign=65&descAlignY=52" width="100%"/>
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Портфолио-E03C31?style=for-the-badge&logo=vercel&logoColor=fff" />
-</a>
-<a href="mailto:samura.dev@mail.ru">
-  <img src="https://img.shields.io/badge/Почта-FF6600?style=for-the-badge&logo=maildotru&logoColor=fff" />
-</a>
-
 <br/><br/>
+<a href="#">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=70&text=[%20PORTFOLIO%20]&fontColor=E03C31&fontSize=22&desc=Скоро%20запуск&descColor=EFEFEF&descAlign=65&descAlignY=52" width="100%"/>
+</a>
+<br/><br/>
+<a href="mailto:samura.dev@mail.ru">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=70&text=[%20EMAIL%20]&fontColor=E03C31&fontSize=22&desc=samura.dev@mail.ru&descColor=EFEFEF&descAlign=65&descAlignY=52" width="100%"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=samura-dev&style=for-the-badge&color=E03C31&label=ПРОСМОТРЫ&labelColor=0A0A0A" />
+<br/><br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:E03C31&height=120&section=footer" width="100%" />
+
+</div>
