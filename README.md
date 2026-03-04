@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:111111,100:E03C31&height=250&section=header&animation=twinkling" width="100%" />
-
 # <code style="color: #E03C31;">samura.dev</code>
 
 <br/>
